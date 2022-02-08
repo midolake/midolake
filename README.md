@@ -13,7 +13,7 @@
 <p align="center"><b>I'm dedicated to test driven development of web and mobile applications.</b></p>
 
 
-<p align="center"><b>Feel free to reach out on <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/shuwen-liang-855067194/" /></b><p>
+<p align="center"><b>Feel free to reach out on [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ryangrantrhoads/)](https://www.linkedin.com/in/shuwen-liang-855067194/)</b><p>
 <p align="center">&nbsp; </p>
 
 
