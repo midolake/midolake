@@ -14,9 +14,12 @@
 
 
 <p align="center"><b>Feel free to reach out on </b><p>
+  
+[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ryangrantrhoads/)](https://www.linkedin.com/in/shuwen-liang-855067194/)
+  
 <p align="center">&nbsp; </p>
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ryangrantrhoads/)](https://www.linkedin.com/in/shuwen-liang-855067194/)
+
 
 
 ## Here are the technologies I've worked with so far:
