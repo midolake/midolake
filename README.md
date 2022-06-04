@@ -20,6 +20,17 @@
 <p align="center">&nbsp; </p>
 
 
+## Projects List:
+- Project 1: E-commerce web application
+  Link: https://bit.ly/3JY9UgL
+- Project 2: Developed a microservice architecture RESTful API to replace the existing monolithic application
+  Link: https://bit.ly/330VR9z
+- Project 3: A web that helps people from different countries learn English
+  Link: https://bit.ly/3rsxuLk
+- Project 4: A fandom website for genshin impact, allowing users to view most of the characters' information here. 
+  Link: https://github.com/midolake/GI
+- Project 5: An app that sends plain text prompts to the OpenAI API and displays the results in a list.
+  Link: https://midolake.github.io/Fun-With-AI/
 
 
 ## Here are the technologies I've worked with so far:
